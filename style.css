@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Madimi+One&display=swap');
+body{
+    font-family: "Madimi One", sans-serif;
+}
+#gamecontainer{
+    text-align: center;
+    
+}
+#gameboard{
+    border: 2px solid;
+    margin-top: 7vh;
+}
+#score{
+    font-size: 100px;
+}
+button{
+    font-size: 22px;
+    width: 90px;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 20%;
+    border: none;
+    background-color: black;
+    color: azure;
+    cursor: pointer;
+}
+footer{
+    font-size: 0.78em;
+    text-align: right;
+    font-style: normal;
+}
